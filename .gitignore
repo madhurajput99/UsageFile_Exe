@@ -16,3 +16,6 @@ x86/
 # NuGet
 *.nupkg
 packages/
+
+# Local config
+App.config
